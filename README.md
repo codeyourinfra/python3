@@ -8,6 +8,7 @@ Distribution | Tag
 ------------ | ---
 [Ubuntu 16.04 LTS](https://github.com/codeyourinfra/python3/blob/master/xenial/Dockerfile) | xenial
 [Ubuntu 18.04 LTS](https://github.com/codeyourinfra/python3/blob/master/bionic/Dockerfile) | bionic
+[Alpine Linux v3.8](https://github.com/codeyourinfra/python3/blob/master/alpine/Dockerfile) | alpine
 
 Use the tag to pull the specific Docker image: `docker pull codeyourinfra/python3:tag`.
 
